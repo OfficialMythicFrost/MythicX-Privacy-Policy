@@ -12,10 +12,6 @@ We only collect non-personally identifiable information, such as server and user
 
 We prioritize the security of your data. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-## Use of Feedback
-
-Any feedback you provide may be collected and used to improve MythicX. We appreciate your valuable input in enhancing the bot's features and performance.
-
 ## Links to Other Sites
 
 Our bot may contain links to other sites. If you click on a third-party link, you will be directed to that site. We strongly advise you to review the Privacy Policy of every site you visit.
@@ -28,4 +24,4 @@ We may update our Privacy Policy from time to time. You will be notified of any 
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mythicfrost@gmail.com.
 
-This Privacy Policy was last updated on [02-01-2024].
+This Privacy Policy was last updated on [14-01-2024].
