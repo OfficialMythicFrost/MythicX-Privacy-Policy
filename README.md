@@ -24,6 +24,7 @@ We may update our Privacy Policy from time to time. You will be notified of any 
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at officialmythicfrost@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at
+Discord: @officialmythicfrost
 
 This Privacy Policy was last updated on [29-01-2025].
